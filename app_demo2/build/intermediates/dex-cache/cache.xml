@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b7de4ec41f609a45518fbb3c3d274893fcac9377">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/instant-run-bootstrap_234aa9da8f9aea4f5237a2d2b11d31231f4c7e57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_478676cbf1859697d8193f746f17eacf30b9501b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_1afad3ebb5aea18fc8f318c24d085d6a638fc515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_249ccec84e93b5a5f000fbbde478998cb374c172.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_394406fc4a6bdb62471ca1ba040c9164912139a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/gson-2.8.0_44ee180409f9526773a9be647eb4842b56e63f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c4786f3d437007ae16f9730ee7bfdfeb4da7254">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/instant-run_f4c6a9ab555166e55438f9c901374c10b9894e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ca35a22a25d1d76b9b7667e24e226859a35f90f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/glide-3.5.2_40b123834794d901ede0d1901aa0b79398161342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/okio-1.9.0_c13e5ca54df2ea08b0607d04be3498f608c6690f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/okhttp-3.4.1_fcc9097050bbd0c1b6b33fc251b4731e8166c977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_17e7bd3a340ad9e1e52332f6b1e18bdc07241436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_3f3a6d3dcebf256e3bed91166861612bb328a549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_bee8013dc4160636638c605a8e8fb9f0feb7d6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_ef520443f3c6b2eca0cf9fcb9bad6b24a4aebee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_4258a670ab36df87a4e03cb62111d3457417272d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Documents/andriod/android-sdk-macosx-2/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_2c1a19ce3f9c1d367ff3ff8c6dbf827a4a928196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_64160f266dda2b2ef7c05b625da112c9d4dbdc66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_06a2a84d846a29472104fb6f59af9edec235d317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_c0f60b43590394838bb3bf4c92dd2836d68aa178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a0f3a77faf269741e35482f8cd5c226d36719dba.jar" />
+    </item>
+
+</items>

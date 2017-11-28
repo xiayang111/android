@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/common_actionbar"
+        layout="@layout/include_action_bar" />
+    <Button
+        android:id="@+id/update_btn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="更新app"
+        android:textSize="20sp"/>
+    <Button
+        android:id="@+id/force_update_btn"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="强制更新app"
+        android:textSize="20sp"/>
+
+
+
+</LinearLayout>

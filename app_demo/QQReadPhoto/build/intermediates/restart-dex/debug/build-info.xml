@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="35852051114027"
+    token="-7156763360617731665"
+    verifier="MANIFEST_FILE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="178" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="43" />
+    <task
+        name="verifier"
+        duration="9" />
+
+    <artifact
+        location="/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/outputs/apk/QQReadPhoto-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="35852051114027"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/outputs/apk/QQReadPhoto-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

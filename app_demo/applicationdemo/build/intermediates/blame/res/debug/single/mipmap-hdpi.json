@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/build/intermediates/res/merged/debug/mipmap-hdpi/start.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/src/main/res/mipmap-hdpi/start.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/build/intermediates/res/merged/debug/mipmap-hdpi/stop.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/src/main/res/mipmap-hdpi/stop.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/build/intermediates/res/merged/debug/mipmap-hdpi/f040.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/src/main/res/mipmap-hdpi/f040.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/build/intermediates/res/merged/debug/mipmap-hdpi/meizi.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/src/main/res/mipmap-hdpi/meizi.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/build/intermediates/res/merged/debug/mipmap-hdpi/f015.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/src/main/res/mipmap-hdpi/f015.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/build/intermediates/res/merged/debug/mipmap-hdpi/iphone.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/src/main/res/mipmap-hdpi/iphone.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/build/intermediates/res/merged/debug/mipmap-hdpi/ipad.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/src/main/res/mipmap-hdpi/ipad.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/build/intermediates/res/merged/debug/mipmap-hdpi/danfan.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/src/main/res/mipmap-hdpi/danfan.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/build/intermediates/res/merged/debug/mipmap-hdpi/bg2.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/applicationdemo/src/main/res/mipmap-hdpi/bg2.png"
+    }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="16"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="3588661817843"
+    token="-799173260466629690"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="321" />
+    <task
+        name="instant-run-dex"
+        duration="21" />
+    <task
+        name="instant-run-transform"
+        duration="25" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/Users/xiayang/Desktop/MyApplication/customcamera/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="3328136114480"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/xiayang/Desktop/MyApplication/customcamera/build/outputs/apk/customcamera-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="8503355117932"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/xiayang/Desktop/MyApplication/customcamera/build/outputs/apk/customcamera-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

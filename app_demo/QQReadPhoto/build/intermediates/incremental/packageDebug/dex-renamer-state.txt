@@ -1,0 +1,7 @@
+#Tue Jul 04 11:47:23 CST 2017
+base.0=/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d1bc178bdfb5f6283071e0a2925282150519b83
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_81fbda022f0933e245b817b5fb9ab46375938cf9/classes.dex
+base.1=/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_81fbda022f0933e245b817b5fb9ab46375938cf9
+file.0=/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d1bc178bdfb5f6283071e0a2925282150519b83/classes.dex

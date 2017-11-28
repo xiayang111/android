@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal|center_vertical"
+    >
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@drawable/alert_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:orientation="vertical">
+
+            <TextView android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp"
+                android:gravity="center_horizontal"
+                android:textSize="18dip"
+                android:textColor="@android:color/black"
+                android:text="扫码成功"
+                android:id="@+id/dialog_title"/>
+
+            <TextView android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="15dp"
+                android:gravity="center_horizontal"
+                android:visibility="visible"
+                android:textSize="15dip"
+                android:textColor="@android:color/black"
+                android:text="大是大非阿斯蒂"
+                android:id="@+id/dialog_message"/>
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:layout_marginTop="10dp"
+                android:max="100"
+                android:progress="0"
+                android:layout_marginRight="8dp"
+                android:progressDrawable="@drawable/progressbar"
+                android:visibility="gone"/>
+
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginTop="15dp"
+            android:background="@color/gap_line"/>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:gravity="center_horizontal"
+            >
+            <Button android:layout_height="40dip"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="好的"
+                android:textSize="17dip"
+                android:textStyle="bold"
+                android:textColor="@color/tab_text_checked_color"
+                android:background="@null"
+                android:id="@+id/ok" />
+            <TextView
+                android:id="@+id/cut_line"
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="@color/gap_line"/>
+            <Button android:layout_height="40dip"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:text="取消"
+                android:textSize="17dip"
+                android:textStyle="bold"
+                android:textColor="@color/tab_text_checked_color"
+                android:background="@null"
+                android:id="@+id/cancel" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/RecycleView/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/RecycleView/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/RecycleView/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_allfriends.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/RecycleView/src/main/res/drawable-mdpi/ic_menu_allfriends.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/RecycleView/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_friendslist.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/RecycleView/src/main/res/drawable-mdpi/ic_menu_friendslist.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/RecycleView/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_emoticons.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/RecycleView/src/main/res/drawable-mdpi/ic_menu_emoticons.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/RecycleView/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_start_conversation.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/RecycleView/src/main/res/drawable-mdpi/ic_menu_start_conversation.png"
+    }
+]

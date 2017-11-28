@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.applicationdemo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.applicationdemo.CustomApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.applicationdemo.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.applicationdemo.videoplayer.VideoPlayerActivity" />
+        <activity android:name="com.applicationdemo.update.UpdateActivity" />
+        <activity android:name="com.applicationdemo.droidservice.DroidServiceActivity" />
+        <activity android:name="com.applicationdemo.customprogressbar.CustomProgressbarActivity" />
+        <activity android:name="com.applicationdemo.luckdial.LuckDialActivity" />
+        <activity android:name="com.applicationdemo.viewpagerindicator.ViewpagerIndicatorActivity" />
+        <activity android:name="com.applicationdemo.design.DesignActivity" />
+        <activity android:name="com.applicationdemo.designtoo.DesigntooActivity" />
+        <activity android:name="com.applicationdemo.designtoo.TextInputActivity" />
+
+        <service android:name="com.applicationdemo.update.UpdateService" />
+
+        <activity
+            android:name="io.vov.vitamio.activity.InitActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+    </application>
+
+</manifest>

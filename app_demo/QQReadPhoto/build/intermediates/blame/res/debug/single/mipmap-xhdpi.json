@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_checkbox_true.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/src/main/res/mipmap-xhdpi/icon_checkbox_true.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/res/merged/debug/mipmap-xhdpi/albumset_preselected.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/src/main/res/mipmap-xhdpi/albumset_preselected.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_checkbox_false.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/src/main/res/mipmap-xhdpi/icon_checkbox_false.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_dir.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/src/main/res/mipmap-xhdpi/icon_dir.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_file.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/src/main/res/mipmap-xhdpi/icon_file.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_path_arrow.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/src/main/res/mipmap-xhdpi/icon_path_arrow.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_back2.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/src/main/res/mipmap-xhdpi/icon_back2.png"
+    },
+    {
+        "merged": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/build/intermediates/res/merged/debug/mipmap-xhdpi/albumset_selected.png",
+        "source": "/Users/xiayang/Desktop/江西方欣/jiangxifangxin/MyWorkSpace/QQReadPhoto/src/main/res/mipmap-xhdpi/albumset_selected.png"
+    }
+]

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/navigation_original"
+            android:checked="true"
+            android:icon="@mipmap/ic_star_white_24dp"
+            android:title="original" />
+
+        <item
+            android:id="@+id/navigation_library"
+            android:icon="@mipmap/ic_public_white_24dp"
+            android:title="library" />
+
+        <item
+            android:id="@+id/navigation_component"
+            android:icon="@mipmap/ic_extension_white_24dp"
+            android:title="component" />
+
+        <item
+            android:id="@+id/navigation_ui"
+            android:icon="@mipmap/ic_phone_android_white_24dp"
+            android:title="ui" />
+    </group>
+
+        <item android:title="子菜单">
+            <menu >
+
+                <item
+                    android:id="@+id/navigation_text"
+                    android:icon="@mipmap/ic_text_format_white_24dp"
+                    android:title="text" />
+
+                <item
+                    android:id="@+id/navigation_animation"
+                    android:icon="@mipmap/ic_flare_white_24dp"
+                    android:title="animation" />
+
+                <item
+                    android:id="@+id/navigation_sensor"
+                    android:icon="@mipmap/ic_explore_white_24dp"
+                    android:title="sensor" />
+
+                <item
+                    android:id="@+id/navigation_storage"
+                    android:icon="@mipmap/ic_storage_white_24dp"
+                    android:title="storage" />
+
+                <item
+                    android:id="@+id/navigation_other"
+                    android:icon="@mipmap/ic_more_horiz_white_24dp"
+                    android:title="other" />
+                <item
+                    android:id="@+id/navigation_settings1"
+                    android:icon="@mipmap/ic_settings_white_24dp"
+                    android:title="settings" />
+                <item
+                    android:id="@+id/navigation_sensor1"
+                    android:icon="@mipmap/ic_explore_white_24dp"
+                    android:title="sensor" />
+
+                <item
+                    android:id="@+id/navigation_storage1"
+                    android:icon="@mipmap/ic_storage_white_24dp"
+                    android:title="storage" />
+
+                <item
+                    android:id="@+id/navigation_other1"
+                    android:icon="@mipmap/ic_more_horiz_white_24dp"
+                    android:title="other" />
+                <item
+                    android:id="@+id/navigation_settings"
+                    android:icon="@mipmap/ic_settings_white_24dp"
+                    android:title="settings" />
+
+            </menu>
+        </item>
+
+</menu>

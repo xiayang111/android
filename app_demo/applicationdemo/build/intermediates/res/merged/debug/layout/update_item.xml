@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/black"
+        android:padding="3dp"
+        >
+    <ImageView android:id="@+id/update_item_notificationImage"
+               android:layout_width="48dp" android:layout_height="48dp"
+               android:src="@android:drawable/ic_media_play"
+               android:padding="8dp" android:contentDescription="检查更新"/>
+    <TextView android:id="@+id/update_item_notificationTitle"
+              android:layout_width="153dp" android:layout_height="wrap_content"
+              android:layout_toRightOf="@+id/update_item_notificationImage"
+              android:paddingLeft="16dp"
+              android:textColor="@android:color/white"
+              android:ellipsize="end"
+              android:layout_toLeftOf="@+id/update_item_notificationPercent" android:layout_marginRight="5dp"
+              android:singleLine="true"/>
+    <TextView android:id="@+id/update_item_notificationPercent"
+              android:layout_width="55dp" android:layout_height="wrap_content"
+              android:paddingTop="2dp"
+              android:text="0%"
+              android:textColor="@android:color/white"
+              android:layout_alignParentRight="true"
+              android:paddingRight="16dp"
+              android:layout_alignTop="@id/update_item_notificationImage"/>
+    <ProgressBar android:id="@+id/update_item_notificationProgress"
+                 android:layout_width="fill_parent"
+                 android:layout_height="6dp"
+                 android:layout_below="@id/update_item_notificationTitle"
+                 android:layout_toRightOf="@id/update_item_notificationImage"
+                 android:layout_alignParentRight="true"
+                 android:paddingRight="60dp"
+                 android:layout_marginLeft="8dp"
+                 android:paddingTop="8dp"
+                 style="?android:attr/progressBarStyleHorizontal"
+                 android:layout_alignBottom="@+id/update_item_notificationImage" android:paddingBottom="8dp"/>
+</RelativeLayout>

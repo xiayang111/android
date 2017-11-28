@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.applicationdemo.viewpagerindicator.StickyNavLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xyang = "http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/stickylayout_top"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/blue">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textSize="20sp"
+                android:text="标题内容"/>
+
+    </RelativeLayout>
+
+    <com.applicationdemo.viewpagerindicator.ViewpagerIndicator
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="@drawable/top_bar"
+        android:id="@+id/stickylayout_vpIndicator"
+        xyang:visiable_table_count="5"
+    >
+
+    </com.applicationdemo.viewpagerindicator.ViewpagerIndicator>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/stickylayout_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </android.support.v4.view.ViewPager>
+
+</com.applicationdemo.viewpagerindicator.StickyNavLayout>
